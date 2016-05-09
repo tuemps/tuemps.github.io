@@ -1,3 +1,0 @@
-Options +FollowSymLinks
-RewriteEngine on
-RewriteRule ^(.*)$ http://www.gijsdubbelman.com/$1 [L]
